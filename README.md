@@ -15,7 +15,7 @@ This project aims to predict house prices based on various features such as squa
 - scikit-learn
 
 ## How to Run:
-1. Install dependencies:
+1. Install dependencies: pip install -r requirements.txt
 2. Run the main script: house price predictor.py
 3. The model will output the predicted house price.
    - home parameters can be adjusted on lines 47-50
